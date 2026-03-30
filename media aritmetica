@@ -1,0 +1,8 @@
+# Algoritmo que receba cinco numeros e calcule a medica aritmetica e apresente o resultado
+n1 = input(float('digite um numero')
+n2 = input(float('digite outro numero')
+n3 = input(float('digite outro numero')
+n4 = input(float('digite outro numero')
+n5 = input(float('digite outro numero')
+media = (n1+n2+n3+n4+n5)/5
+print('A media aritmetica dos numeros digitados é:', media)
